@@ -3,3 +3,8 @@
 DROP DATABASE startersql;
 
 Would delete entire database
+
+2)Note you can write multiple queries in same statement this would be termed as a sql script
+
+After deleting harry pasted all the before drop queries in a single command and those worked so that means
+multiple commands together would work
