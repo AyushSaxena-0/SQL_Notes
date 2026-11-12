@@ -1,0 +1,5 @@
+1)Drop is used to delete the entire database 
+
+DROP DATABASE startersql;
+
+Would delete entire database

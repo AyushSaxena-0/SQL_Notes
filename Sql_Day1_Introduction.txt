@@ -1,0 +1,6 @@
+**********************************************************************************************
+GENERAL NOTES
+
+1)By using database queries we can communicate with DBMS to perform action which we want to do
+2)Database contains tables just like a folder contains files
+3)Either you can select manually which database you want to use by right clicking on it and then selecting "Set as default schema" or you can use the SQL query USE startersql
