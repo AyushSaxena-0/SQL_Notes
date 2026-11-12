@@ -6,5 +6,11 @@ Would delete entire database
 
 2)Note you can write multiple queries in same statement this would be termed as a sql script
 
-After deleting harry pasted all the before drop queries in a single command and those worked so that means
+3)After deleting harry pasted all the before drop queries in a single command and those worked so that means
 multiple commands together would work
+
+4)You can save script also,go to file on the Mysql
+
+5)Then click on save script
+
+6)Later you can go to file and select run script then browse your script and then open it and run it
