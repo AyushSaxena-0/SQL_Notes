@@ -1,0 +1,9 @@
+There are several dataytypes in SQL
+
+1)INT:-Integer type used for whole numbers.
+2)Varchar(100):- Variable length string upto 100 characters.
+3)Enum:A string object having a value from a list of permitted value
+       Example ENUM('Male','Female','Other')
+4)DATE:-Stores date values example date_of_birth DATE
+5)TIMESTAMP:-Stores date and time,automatically set to the current timestamp when a row is created
+/
