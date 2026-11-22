@@ -6,4 +6,3 @@ There are several dataytypes in SQL
        Example ENUM('Male','Female','Other')
 4)DATE:-Stores date values example date_of_birth DATE
 5)TIMESTAMP:-Stores date and time,automatically set to the current timestamp when a row is created
-/
