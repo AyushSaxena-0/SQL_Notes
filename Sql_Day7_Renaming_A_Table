@@ -1,0 +1,3 @@
+1)Suppose I want to rename a table name users to programmers then it is possible in the sql to do so.
+2)Command is as follows:-
+    RENAME TABLE users to programmers;
