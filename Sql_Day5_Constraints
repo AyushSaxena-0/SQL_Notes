@@ -3,6 +3,9 @@
               inserted,deleted or updated
 2)Types of constraints are given below
     1)AUTO_INCREMENT:-Automatically generates a unique number for each row
-    2)Primary Key:-Uniquely identifies each row in a table
+    2)PRIMARY KEY:-Uniquely identifies each row in a table
                    Note that primary key cannot be NULL.
-    3)
+    3)NOT NULL:-Ensures that a column cannot have a null value
+    4)UNIQUE:-Ensures that all the values in a column are different.
+    5)DEFAULT:-Sets a default value for a column if no value is provided
+               Example created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,is_active BOOLEAN DEFAULT TRUE
