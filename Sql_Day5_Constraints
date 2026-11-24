@@ -1,0 +1,8 @@
+1)Constrains:-In SQL,Constraints are the rules or restrictions/conditions applied on
+              a particular table or a column that restricts the type of data that can be
+              inserted,deleted or updated
+2)Types of constraints are given below
+    1)AUTO_INCREMENT:-Automatically generates a unique number for each row
+    2)Primary Key:-Uniquely identifies each row in a table
+                   Note that primary key cannot be NULL.
+    3)

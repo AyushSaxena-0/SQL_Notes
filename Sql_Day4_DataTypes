@@ -7,3 +7,4 @@ There are several dataytypes in SQL
        Also note that ENUM are Case insensitive like if i have a ENUM defined for Science then science(Lowercase),sCiEnCe(Mixed Upper+Lower) is also accepted
 4)DATE:-Stores date values example date_of_birth DATE
 5)TIMESTAMP:-Stores date and time,automatically set to the current timestamp when a row is created
+6)BOOLEAN:-Stores TRUE or FALSE values often used for flags like is_active
