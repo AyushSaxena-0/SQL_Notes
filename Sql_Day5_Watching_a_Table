@@ -4,5 +4,4 @@ for getting all the columns
 2)But If you want only specific columns then you can go for mentioning the specific
 column names instead of *
 Example:-
-
 SELECT col1Name,col2Name FROM TABLENAME;
