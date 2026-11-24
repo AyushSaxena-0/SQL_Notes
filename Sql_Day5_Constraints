@@ -3,6 +3,7 @@
               inserted,deleted or updated
 2)Types of constraints are given below
     1)AUTO_INCREMENT:-Automatically generates a unique number for each row
+      Note you cannot write without underscore "_" like AUTO INCREMENT it would lead to syntax error
     2)PRIMARY KEY:-Uniquely identifies each row in a table
                    Note that primary key cannot be NULL.
     3)NOT NULL:-Ensures that a column cannot have a null value
