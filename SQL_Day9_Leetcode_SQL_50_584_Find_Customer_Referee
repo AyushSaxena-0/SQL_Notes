@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+SELECT name FROM Customer
+WHERE (referee_id!=2 OR referee_id IS NULL);
+#Here note that you cannot use referee_id=NULL as it returns UNKNOWN not true or false
