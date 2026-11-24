@@ -1,0 +1,7 @@
+1)We can fetch data from the table by using the SELECT keyword
+2)To select all the columns use SELECT * FROM TABLENAME;
+3)This would fetch every column and every row from the table
+4)To get specific columns you can write the column names in place of *.
+5)For example SELECT col1Name,col2Name FROM TABLENAME;
+6)This fetches specific column names col1Name and col2Name.
+7)Note that column name is case insensitive.
