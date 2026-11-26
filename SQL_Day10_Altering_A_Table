@@ -1,2 +1,6 @@
-//Commenting in SQL could be done by ctrl+/
-//Double dash -- in SQL query represent comment
+1)Commenting in SQL could be done by ctrl+/
+2)Double dash -- in SQL query represent comment
+3)You can Alter a table like
+    1)Modifying Data type of the table
+    2)Change ordering of the columns
+    3)Delete a column from table

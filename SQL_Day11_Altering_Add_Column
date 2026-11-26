@@ -1,0 +1,3 @@
+1)You can add column by command given below
+
+    ALTER TABLE users ADD COLUMN is_active Boolean Default true;
